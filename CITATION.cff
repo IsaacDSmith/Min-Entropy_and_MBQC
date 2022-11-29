@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Min-Entropy_and_MBQC
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Isaac David
+    family-names: Smith
+    email: isaac.smith@uibk.ac.at
+    affiliation: University of Innsbruck
+  - given-names: Marius
+    family-names: Krumm
+    email: masmin@gmx.net
+    affiliation: University of Innsbruck
