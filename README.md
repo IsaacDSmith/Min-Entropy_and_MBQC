@@ -14,7 +14,7 @@ $$ -\log\left( \min_{\Gamma} \frac{1}{N}\text{Tr}[\Gamma] \right)$$
 
 where the minimisation is performed over unnormalised combs $\Gamma$ on the same spaces as $D$ except for a designated output space that furthermore satisfy $I_{text{output}} \otimes \Gamma \geq D$. $N$ is a normalising constant related to (some of) the dimensions of $\Gamma$ and $\text{Tr}$ denotes the trace. The term inside the logarithm is called the _guessing probability_.
 
-The two key scripts in this repository are:
+The two key general scripts in this repository are:
 - comb_constraints.py
 - guessing_probability.py
 
