@@ -1,6 +1,6 @@
 # Min-Entropy and MBQC
 
-This repository houses the code related to the manuscript [_"Classical-Quantum Combs, their Min-Entropy and their Measurement-Based Applications"_](https://arxiv.org/abs/2212.00553) situated in the research field of quantum information theory. An overview of this work is provided below, but in brief, the work solves a number of semi-definite programs (SDPs) related to [Measurement-Based Quantum Computation](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.5188). The code implementing these optimisations relies on [CVXPY](https://github.com/cvxpy).
+This repository houses the code related to the manuscript [_"The Min-Entropy of Classical-Quantum Combs for Measurement-Based Applications"_](https://arxiv.org/abs/2212.00553) situated in the research field of quantum information theory. An overview of this work is provided below, but in brief, the work solves a number of semi-definite programs (SDPs) related to [Measurement-Based Quantum Computation](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.5188). The code implementing these optimisations relies on [CVXPY](https://github.com/cvxpy).
 
 ## Abstract of the Work:
 
